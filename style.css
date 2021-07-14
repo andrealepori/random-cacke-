@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.body {
+    overflow: hidden;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/food.png);
+    font-family: 'Lobster', cursive;}
+   
+#torta{
+    width: 384px;
+    font-family: sans-serif;
+    text-align: center; 
+    padding: 1em;
+}
+p{
+    text-align: center;
+    line-height: 1;  font-family: 'Lobster', cursive;
+    font-size: 20px;
+}
+h1{
+    font-weight: 400; font-family: 'Lobster', cursive;
+    font-size: 50px;
+    padding-bottom: 1em;
+}
+img{
+    width: 90%;
+    height: auto;
+}
+.data-card{
+    border-radius: 55px;
+    background-color: rgb(243, 195, 1);
+    height: 567px;
+}

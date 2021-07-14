@@ -1,0 +1,35 @@
+.body {
+    overflow: hidden;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/food.png);
+    font-family: 'Amatic SC', cursive;}
+
+
+    html, body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+
+#scontrino{
+    width: 384px;
+    font-family: sans-serif;
+    text-align: center; 
+    padding: 1em;
+}
+p{
+    text-align: center;
+    line-height: 1; 
+    font-size: 20px;
+}
+h1{
+    font-weight: 400;
+    font-size: 50px;
+    padding-bottom: 1em;
+}
+img{
+    width: 90%;
+    height: auto;
+}
